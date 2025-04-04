@@ -34,9 +34,8 @@ Once on the containers, cd into the volumes directory. There you can run the pro
 
 Host B/Client:
 
-<img width="856" alt="Screenshot 2025-04-04 at 5 33 31 PM" src="https://github.com/user-attachments/assets/846811cc-055a-4ec7-8e1b-cb72f81b409d" />
+<img width="856" alt="Screenshot 2025-04-04 at 5 33 31 PM" src="https://github.com/user-attachments/assets/edeee2e9-fb49-4220-b4b6-ac6416ed3f66" />
 
 Host A/Server:
 
-<img width="858" alt="Screenshot 2025-04-04 at 5 32 31 PM" src="https://github.com/user-attachments/assets/dc227f64-a4f7-4995-bbbd-1e502f011c45" />
-
+<img width="858" alt="Screenshot 2025-04-04 at 5 32 31 PM" src="https://github.com/user-attachments/assets/ebab3b96-58d0-4fce-b41f-986073e1c37a" />
